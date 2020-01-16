@@ -4,7 +4,7 @@ Preset files for the most rich audio effects library - [PulseEffects](https://gi
 
 Preset Deatils:
 
-1. Tight Base with vocals clarity - This preset focuses on enriching the base out of audio without compromising on clarity of vocals.
+1. Tight Bass with vocals clarity - This preset focuses on enriching the base out of audio without compromising on clarity of vocals.
 
 ## Installation
 
