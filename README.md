@@ -2,7 +2,7 @@
 
 Preset files for the most rich audio effects library - [PulseEffects](https://github.com/wwmm/pulseeffects/)
 
-Preset Deatils:
+Preset Details:
 
 1. Tight Bass with vocals clarity - This preset focuses on enriching the base out of audio without compromising on clarity of vocals.
 
